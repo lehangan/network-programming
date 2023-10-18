@@ -1,0 +1,6 @@
+exercise1: exercise1.c
+gcc -o exercise1 exercise1.c
+
+exercise2: exercise2.c
+gcc -o exercise2 exercise2.c
+
